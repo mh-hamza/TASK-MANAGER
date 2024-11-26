@@ -1,6 +1,5 @@
-// LoadingSpinner.jsx
-import React from 'react';
-import './LoadingSpinner.css'; // You will create this CSS file for the animation.
+
+import './LoadingSpinner.css'; 
 
 const LoadingSpinner = () => {
   return (

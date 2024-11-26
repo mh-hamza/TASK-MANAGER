@@ -2,10 +2,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: calc(100vh - 70px);
   background-color: #f7f7f7;
+  padding-bottom: 70px;
 }
-
 .registerForm {
   background-color: white;
   padding: 30px;
